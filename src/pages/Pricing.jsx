@@ -2,7 +2,7 @@ import { Box, Container, Heading, SimpleGrid, Text, VStack, Image } from "@chakr
 
 const Pricing = () => {
   return (
-    <Container centerContent maxW="container.md" py={10} bgImage="url('/images/iveco-ampirol.jpg')" bgSize="cover" bgPosition="center">
+    <Container centerContent maxW="container.md" py={10} bgImage="url('/images/new-iveco-ampirol-3.jpg')" bgSize="cover" bgPosition="center">
       <VStack spacing={4} bg="rgba(255, 255, 255, 0.8)" p={10} borderRadius="md">
         <Heading as="h1" size="xl" color="blue.900">Nos Tarifs</Heading>
         <SimpleGrid columns={[1, null, 2]} spacing={10} width="100%">
