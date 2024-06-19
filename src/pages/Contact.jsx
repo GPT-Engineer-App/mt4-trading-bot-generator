@@ -2,7 +2,7 @@ import { Box, Button, Container, FormControl, FormLabel, Input, Textarea, VStack
 
 const Contact = () => {
   return (
-    <Container centerContent maxW="container.md" py={10} bgImage="url('/images/new-iveco-ampirol-1.jpg')" bgSize="cover" bgPosition="center">
+    <Container centerContent maxW="container.md" py={10} bgImage="url('/images/new-iveco-ampliroll-crane.jpg')" bgSize="cover" bgPosition="center">
       <VStack spacing={4} width="100%" bg="rgba(255, 255, 255, 0.8)" p={10} borderRadius="md">
         <FormControl id="name">
           <FormLabel color="blue.900">Nom</FormLabel>
