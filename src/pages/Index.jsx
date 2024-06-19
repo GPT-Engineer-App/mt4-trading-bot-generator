@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Index = () => {
   return (
-    <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center" bgImage="url('/images/new-iveco-ampirol-2.jpg')" bgSize="cover" bgPosition="center">
+    <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center" bgImage="url('/images/new-iveco-ampliroll-crane.jpg')" bgSize="cover" bgPosition="center">
       <VStack spacing={4} bg="rgba(255, 255, 255, 0.8)" p={10} borderRadius="md">
         <Heading as="h1" size="2xl" color="blue.900">JO Multi-Services</Heading>
         <Text fontSize="lg" color="gray.700">Nous offrons des services de location de benne pour tous vos besoins de gestion des déchets.</Text>
